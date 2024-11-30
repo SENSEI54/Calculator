@@ -20,3 +20,9 @@ The goal of the Calculator Application is to offer users a simple yet powerful t
 
 #### Self Goal
 The primary objective of this project was to learn the basics of Android development, including understanding the fundamentals of using Kotlin for application logic and XML for user interface design. This project served as a hands-on introduction to building Android applications, enabling the exploration of essential concepts such as activity lifecycle, event handling, layout design, and user interaction.
+
+#### UI
+
+![image](https://github.com/user-attachments/assets/9f65b9bb-f942-43ea-a584-19bbfb9f3d3d) 
+![image](https://github.com/user-attachments/assets/ff0a59f8-582a-43cf-914b-ab685046ca93)
+
